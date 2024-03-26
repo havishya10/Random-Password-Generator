@@ -30,3 +30,11 @@ Check out the live demo [here](https://passcogen.ccbp.tech/).
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/random-password-generator.git
+   
+License
+This project is licensed under the MIT License.
+
+Credits
+Project inspired by Scrimba
+Built by Havishya
+Icons from Font Awesome
