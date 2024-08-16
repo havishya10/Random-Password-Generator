@@ -2,10 +2,6 @@
 
 Generate secure and random passwords easily with this simple web-based tool.
 
-![Light Theme - Small Layout](images/mobileView/mobileViewLight.png) ![Dark Theme - Small Layout](images/mobileView/mobileViewDark.png)
-
-![Light Theme - Large Layout](images/Tablet-Laptop-View/tab-desk-view-light.png) ![Dark Theme - Large Layout](images/Tablet-Laptop-View/tab-desk-view-dark.png)
-
 ## Demo
 Check out the live demo [here](https://passcogen.ccbp.tech/).
 
