@@ -30,7 +30,4 @@ Check out the live demo [here](https://passcogen.ccbp.tech/).
 ## License
 This project is licensed under the MIT License.
 
-## Credits
-- Project inspired by Scrimba
-- Built by Havishya
-- Icons from Font Awesome
+
